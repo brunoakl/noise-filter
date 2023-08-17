@@ -8,7 +8,7 @@ Testado com
 - Conda 4.10.3
 - Python 3.9.7
 
-Autor: Bruno Machado Ferreira, Ernani Neto, Fábio Gomes, Ryan Henrique Nantes
+Autor: Bruno Machado Ferreira, Ernani Neto, Fábio Gomes de Souza, Ryan Henrique Nantes
 
 
 ### Preparar o ambiente e instalar dependências.
