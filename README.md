@@ -1,5 +1,6 @@
-Esboço de código em python para aplicar alguns ruídos, filtros
-de suavização e detectores de borda. 
+
+# Programa python para aplicar alguns ruídos, filtros de suavização e detectores de borda. 
+## Autores: Bruno Machado Ferreira e Ernani Neto
 
 Testado com
 
